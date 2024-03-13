@@ -6,9 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -29,26 +26,39 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+<b>Intake</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Example of the intake form anyone will see when creating a ticket.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/tomie-s/osticket-lifecycle/assets/59409588/942ac9a4-4507-4ef5-a5f0-9c0fc01e58b3" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+<b>Assignment and Communication</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Example of admin personnel reviewing a ticket, assigning an agent, and updating ticket details.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/tomie-s/osticket-lifecycle/assets/59409588/b8afad4d-db63-45fe-9f6c-030ae3ce18e6" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<b>Working the Issue</b>
+<p>
+Example of an agent working on an ongoing ticket.
+</p>
+<p>
+<img src="https://github.com/tomie-s/osticket-lifecycle/assets/59409588/9dcefcf8-1652-4e69-aa2c-26d89c9b89b3" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<b>Resolution</b>
+<p>
+Example of an agent resolving and closing a ticket.
+</p>
+<p>
+<img src="https://github.com/tomie-s/osticket-lifecycle/assets/59409588/575460d6-74fb-432b-9caf-046016ac50cb" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
